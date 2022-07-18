@@ -61,5 +61,8 @@ I really like science, especially knowledge of information technology (IT). For 
 |Statistics|Languages|Streaks|
 |-|-|-|
 |[![Hesti's github stats](https://github-readme-stats.vercel.app/api?username=HestiYuanaMahardika&show_icons=true&theme=dracula&include_title=true)](https://github.com/HestiYuanaMahardika)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HestiYuanaMahardika&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/HestiYuanaMahardika)|![HestiYuanaMahardika](https://github-readme-streak-stats.herokuapp.com/?user=HestiYuanaMahardika&theme=dracula)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
