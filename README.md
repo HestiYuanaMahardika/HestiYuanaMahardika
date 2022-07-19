@@ -2,8 +2,8 @@
 <h1 align="center">Hi there 👋, Hesti here!</h1>
 <hr>
 
-<img align="right" alt="Coding" width="300" height="210" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<!--<img align="right" height="210" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
+<img align="right" alt="Coding" width="300" height="200" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<!--<img align="right" height="200" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> About  Me</h3>
 I really like science, especially knowledge of information technology (IT). Apart from that I am interested in web programming and UI/UX design.
