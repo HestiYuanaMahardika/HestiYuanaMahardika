@@ -6,10 +6,9 @@
 <!--<img align="right" height="210" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> About  Me</h3>
-I really like science, especially knowledge of information technology (IT)
+I really like science, especially knowledge of information technology (IT). Apart from that I am interested in web programming and UI/UX design.
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
-
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
