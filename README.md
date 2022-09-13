@@ -40,6 +40,7 @@ I really like science, especially knowledge of information technology (IT). Apar
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor)
+![Streamlit](https://code.iconify.design/iconify-icon/1.0.0/iconify-icon.min.js)
 <hr>
 
   
