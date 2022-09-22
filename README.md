@@ -26,7 +26,7 @@ I really like science, especially knowledge of information technology (IT). Apar
  
  <!-- START NEW SECTION -->
  
-<img align="right" alt="ArtificialIntelligence" width="280" height="200" src="svg/artificialintelligence.svg" />
+<img align="right" alt="ArtificialIntelligence" width="280" height="200" src="artificialintelligence.svg" />
 ### Languages 🚧 
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
