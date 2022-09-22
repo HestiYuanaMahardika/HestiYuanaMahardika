@@ -39,6 +39,7 @@ I really like science, especially knowledge of information technology (IT). Apar
 ### Tools 🛠 
 
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
