@@ -1,7 +1,7 @@
 ![](https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/main/HeaderGitHub.png)
 
 <hr>
-<h1 align="center">Hi there 👋, Hesti here!</h1>
+<h1 align="center"><img src="https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/master/Hello.svg" width="600px"></h1>
 <hr>
 
 <img align="right" alt="Coding" width="280" height="190" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
