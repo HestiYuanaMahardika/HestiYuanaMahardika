@@ -16,7 +16,7 @@ I really like science, especially knowledge of information technology (IT). Apar
  <!-- CONNECT WITH ME LINKS -->
  <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Let's Connect
  </h3>
-  <a href="https://www.linkedin.com/in/hesti-yuana-mahardika/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hesti-yuana-mahardika-b5aa21250/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/HestiYuanaMahardika"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCN6dc_-5lgKrw-niuBE0xTA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/hestiyuanam" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
