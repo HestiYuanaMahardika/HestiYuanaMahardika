@@ -75,7 +75,7 @@ I really like science, especially knowledge of information technology (IT). Apar
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
 </picture>
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<h2 align = 'Center'>Watch a 🐍 Eating My Contribution Graph</h2>
 
 ![snake gif](https://github.com/HestiYuanaMahardika/HestiYuanaMahardika/blob/output/github-contribution-grid-snake.gif)
 
