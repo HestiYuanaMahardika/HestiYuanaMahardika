@@ -25,6 +25,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
   <br>
 <hr>
  
+ 
  <!-- START NEW SECTION -->
  
 <img align="right" alt="ArtificialIntelligence" width="280" height="225" src="artificialintelligence.svg" />
@@ -38,9 +39,8 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
-![bootstrap](https://icongr.am/devicon/bootstrap-original.svg?size=50&color=currentColor)
 
-
+ 
 ### Tools 🛠 
 
 ![Mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
@@ -65,6 +65,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 
 <hr>
 
+
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Statistic</h2>
@@ -73,16 +74,17 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 |-|-|-|
 |[![Hesti's github stats](https://github-readme-stats.vercel.app/api?username=HestiYuanaMahardika&show_icons=true&theme=dracula&include_title=true)](https://github.com/HestiYuanaMahardika)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HestiYuanaMahardika&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/HestiYuanaMahardika)|![HestiYuanaMahardika](https://github-readme-streak-stats.herokuapp.com/?user=HestiYuanaMahardika&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)
 
-<p align="center">
- <h2 align="center">My Github Profile Summary Card</h2>
+
+<h2 align="center">My Github Profile Summary Card</h2>
  
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
 </picture>
 <hr>
- 
+
+
 <!-- START NEW SECTION -->
 <h2 align = 'Center'>Watch a 🐍 Eating My Contribution Graph</h2>
 
