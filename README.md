@@ -38,6 +38,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![c++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
+![bootstrap](https://icongr.am/devicon/bootstrap-original.svg?size=50&color=currentColor)
 
 
 ### Tools 🛠 
@@ -50,7 +51,6 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 ![Streamlit](https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg)
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" **alt="postman" width="40" height="40"/>
 </div>
 <hr>
 
@@ -73,6 +73,9 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 |-|-|-|
 |[![Hesti's github stats](https://github-readme-stats.vercel.app/api?username=HestiYuanaMahardika&show_icons=true&theme=dracula&include_title=true)](https://github.com/HestiYuanaMahardika)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HestiYuanaMahardika&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/HestiYuanaMahardika)|![HestiYuanaMahardika](https://github-readme-streak-stats.herokuapp.com/?user=HestiYuanaMahardika&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)
 
+<p align="center">
+ <h2 align="center">My Github Profile Summary Card</h2>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_bright">
