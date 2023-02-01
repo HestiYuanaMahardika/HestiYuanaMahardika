@@ -50,6 +50,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 ![Streamlit](https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg)
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 <hr>
 
