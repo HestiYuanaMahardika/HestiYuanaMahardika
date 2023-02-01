@@ -80,7 +80,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
+  <img alt="My GitHub Stats" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HestiYuanaMahardika&theme=nord_dark">
 </picture>
 <hr>
 
