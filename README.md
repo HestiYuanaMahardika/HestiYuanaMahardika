@@ -9,7 +9,7 @@
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a> About  Me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HestiYuanaMahardika&label=Profile%20views&color=f20a0a&style=flat" alt="HestiYuanaMahardika" /> </p>
-I am a technology enthusiast, have a high enthusiasm for learning new things, a commitment to excellence, able to work with others to achieve certain goals in a timely manner, and take responsibility for every task performed. Passionate in Information Technology and always improving my skills in several IT fields such as internet of things, cyber security, and website development. I also have good knowledge of front-end and back-end development.
+<p class="justify"> I am a technology enthusiast, have a high enthusiasm for learning new things, a commitment to excellence, able to work with others to achieve certain goals in a timely manner, and take responsibility for every task performed. Passionate in Information Technology and always improving my skills in several IT fields such as internet of things, cyber security, and website development. I also have good knowledge of front-end and back-end development.<p>
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
