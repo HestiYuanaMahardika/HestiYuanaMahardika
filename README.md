@@ -58,7 +58,7 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
 
 <!--START_SECTION:badges-->
 [![AWS Learning: Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/9d5df81a-dda0-49cf-8f58-6ca95a521021 "AWS Learning: Foundations")
-[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/89a876fe-2d21-4182-b6d4-9642cbd476e1 "Cybersecurity Essentials")
+[![Cybersecurity Essentials](https://images.credly.com/size/100x100/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/89a876fe-2d21-4182-b6d4-9642cbd476e1 "Cybersecurity Essentials")
 </div>
 <hr>
 
