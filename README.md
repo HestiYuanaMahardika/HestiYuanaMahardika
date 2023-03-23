@@ -57,9 +57,10 @@ I am a technology enthusiast, have a high enthusiasm for learning new things, a 
  ## Badges/Certifications
 
 <!--START_SECTION:badges-->
-[![AWS Learning: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/9d5df81a-dda0-49cf-8f58-6ca95a521021 "AWS Learning: Architecting")
+[![AWS Learning: Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/9d5df81a-dda0-49cf-8f58-6ca95a521021 "AWS Learning: Foundations")
 </div>
 <hr>
+
   
 <!-- START NEW SECTION -->
 <p align="center">
