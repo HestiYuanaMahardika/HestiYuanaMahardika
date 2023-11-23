@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="280" height="190" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <!--<img align="right" height="190" width="280" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👩‍💻 About  Me</h3> <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👩‍💻 About  Me <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HestiYuanaMahardika&label=Profile%20views&color=f20a0a&style=flat" alt="HestiYuanaMahardika" /> </p>
 I am a technology enthusiast, have a high enthusiasm for learning new things, a commitment to excellence, able to work with others to achieve certain goals in a timely manner, and take responsibility for every task performed. Passionate in Information Technology and always improving my skills in several IT fields such as internet of things, cyber security, and website development. I also have good knowledge of front-end and back-end development.
 
