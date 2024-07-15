@@ -10,7 +10,7 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👩‍💻 About  Me <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HestiYuanaMahardika&label=Profile%20views&color=f20a0a&style=flat" alt="HestiYuanaMahardika" /> </p>
 I am a Front-End and Back-End Web Developer with more than 2 years of experience collaborating with companies, health centers, lecturers, doctors, and development teams. As a professional, I have worked in a variety of roles including software development, product management, and data analysis.
-
+<hr>
 
 Throughout my career, I have a track record of leading and managing various software development projects. I have experience as Full Stack Development as the best Dicoding batch 3 project in 2022, have experience in Project MSIB Batch 4 and INKA Group Product Development at PT Industri Kereta Api (Persero) as Information Technology Development in creating software programs, studying data analysis, and involved in creating digital infrastructure for the company in 2023, and was appointed as a research assistant as a Systems Analyst on the Higher Education Technology and Innovation Project related to the Development of an Integrated Medical Professional Education Information System together with lecturers in the Informatics field of the Engineering Study Program at the University of Lampung and Doctors at RSUAM in 2024. Apart from that, I also received an award as the 2nd Best Graduate of the University of Lampung University Level in 2023/2024.
 
